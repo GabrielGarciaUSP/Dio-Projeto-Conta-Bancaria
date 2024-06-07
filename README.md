@@ -1,7 +1,7 @@
 # ContaTerminal
 
 ## Autor 
-- - [Gabriel Garcia](https://github.com/GabrielGarciaUSP)
+- [Gabriel Garcia](https://github.com/GabrielGarciaUSP)
 
 Este projeto consiste em uma aplicação Java simples que simula a criação de uma conta bancária através da interação com o terminal. O usuário é solicitado a fornecer algumas informações básicas, como número da conta, agência, nome do cliente e saldo inicial, e o programa exibe uma mensagem de confirmação com os dados fornecidos.
 
