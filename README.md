@@ -15,8 +15,8 @@ O projeto é composto por uma única classe chamada `ContaTerminal`, que contém
 
 A classe Scanner é importada para permitir a leitura da entrada do usuário a partir do terminal.
 
-"```java
-import java.util.Scanner;"
+```java
+import java.util.Scanner;
 
 #### Criação do Scanner
 
