@@ -17,31 +17,31 @@ A classe Scanner é importada para permitir a leitura da entrada do usuário a p
 
 ```java
 import java.util.Scanner;
-
+```
 #### Criação do Scanner
 
 Uma instância da classe Scanner é criada para ler as entradas fornecidas pelo usuário.
-
-"Scanner scanner = new Scanner(System.in);"
-
+```java
+Scanner scanner = new Scanner(System.in);
+```
 #### Leitura dos Dados Inseridos
-
-"numero = scanner.nextInt();"
-
+```java
+numero = scanner.nextInt();
+```
 Utilizamos essa função para receber o valor digitado pelo usuário e inseri-lo na variável.
 
 #### Fechamento do Scanner
-
+```java
 "scanner.close();"
-
+```
 #### Finalização
 
 Por fim, imprimimos todos os dados do usuário conforme pedido na proposta do projeto.
-
+```java
 "String mensagem = "Olá " + nomeCliente + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia +
                   ", conta " + numero + " e seu saldo " + saldo + " já está disponível para saque.";
 System.out.println(mensagem);"
-
+```
 #### Melhorias a serem feitas
 
 Futuramente pretendo fazer melhorias neste projeto para que possa ser possível o saque, depósito, e transferência
